@@ -11,7 +11,8 @@ end
 
 def pioneer
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
-    return {    :name = "Grace Hopper"  }
+    y = {    :name = "Grace Hopper"  }
+    return y
 end
 
 def id_generator
@@ -26,7 +27,7 @@ end
 
 def read_from_hash(hash, key)
   # return the correct value using the hash and key parameters
-  
+
 end
 
 def update_counting_hash(hash, key)
