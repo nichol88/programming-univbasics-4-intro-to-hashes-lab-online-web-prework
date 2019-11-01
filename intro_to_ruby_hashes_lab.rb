@@ -5,8 +5,9 @@ end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
-    return {"first" => 1,
-              "second" => 2}
+  y =  {"first" => 1,
+            "second" => 2}
+    return y
 end
 
 def pioneer
