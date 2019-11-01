@@ -1,6 +1,7 @@
 def new_hash
   # return an empty hash
-  return Hash.new
+  y = Hash.new
+  return y
 end
 
 def my_hash
